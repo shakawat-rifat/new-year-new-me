@@ -1,0 +1,85 @@
+.image{
+   position: relative;
+   background-size: cover;
+   display: flex;
+}
+*{
+    margin: 0px;
+    padding:0px;
+
+}
+.banner{
+    display: flex;
+    align-items: center;
+    color: #151414;
+    margin-bottom: 15px;
+
+}
+.banner-description{
+    color: #444343;
+    font-size: 18px;
+}
+.btn-primary{
+    height: 64px;
+    border-radius:5px;
+    background: #F15B22;
+    color: #FFFFFF;
+    font-weight: 600;
+        font-size: 20px;
+        border: 0;
+        padding:21px 25px;
+        margin-bottom:15px;
+}
+.title{
+    font-size: 42px;
+    margin-bottom:20px;
+   
+}
+.point{
+    font-size: 15px;
+    color: #444343;
+   
+    
+}
+.paragraph{
+    font-size: 15px;
+    margin-bottom: 15px;
+    color: #444343;
+    
+}
+.second-image{
+    display: flex;
+    align-items: center;
+    display: flex;
+}
+/* my-plans-section */
+.my-plan{
+    margin-top: 130px;
+}
+.plans-container{
+    display:flex;
+    gap:100px
+    
+}
+.plans-title{
+    font-weight: 700;
+        font-size: 30px;
+        margin-top:10px;
+        margin-bottom:5px;
+}
+.plans-description{
+    color: #737272;
+}
+.plans{
+    background: #FFFFFF;
+    box-shadow:0px 6px 50px rgba(0,0,0,0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.section-title{
+    text-align:center;
+}
+/* contact styles */
+.contact .section-title{
+    text-align: left;
+}
