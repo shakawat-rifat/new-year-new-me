@@ -1,7 +1,7 @@
 
 
 .section-header{
-    background-image: url("/images/banner/banner3.png");
+    background-image: url("/images/banner/banner3.jpg");
     height: 808px;
     background-repeat: no-repeat;
     background-size: 100% 600px;
@@ -45,7 +45,7 @@ padding-right: 210px;
 .section-three {
     height: 200px;
     width: 1140px;
-    background-image: url("/images/watch.png");
+    background-image: url("/images/watch.jpg");
     background-repeat: no-repeat;
    background-size: 100% 100%;
    margin-left: 180px;
